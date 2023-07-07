@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Phd student and research assistant at UVM. 
+I'm a PhD student and research assistant at UVM. 
 
 [//]: # placeholder title
 [//]: # ---
