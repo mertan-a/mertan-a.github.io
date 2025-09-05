@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "alican mertan"
+title                    : "Alican Mertan"
 title_separator          : "-"
-name                     : &name "alican mertan"
+name                     : &name "Alican Mertan"
 description              : &description "research assistant and phd student at UVM"
 url                      : https://mertan-a.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "alican mertan"
+  name             : "Alican Mertan"
   avatar           : "profile.png"
   bio              : "research assistant at UVM"
   location         : "Burlington, VT"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AlicanMertan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
